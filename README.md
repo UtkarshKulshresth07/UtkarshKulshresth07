@@ -10,7 +10,7 @@
 - 📫 How to reach me: **2401a00300042@paruluniversity.ac.in**
 
 ### 📄 My Resume:
-📄 **[Click here to view my Resume (PDF)](https://github.com/UtkarshKulshreshth07/UtkarshKulshreshth07/blob/main/resume.pdf)**
+📄 **[Click here to view my Resume (PDF)](https://github.com/UtkarshKulshresth07/UtkarshKulshresth07/blob/main/resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
