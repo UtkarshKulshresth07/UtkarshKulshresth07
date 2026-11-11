@@ -10,7 +10,7 @@
 - 📫 How to reach me: **2401a00300042@paruluniversity.ac.in**
 
 ### 📄 My Resume:
-[![Resume]([https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/UtkarshKulshresth07/UtkarshKulshresth07/blob/main/resume.pdf)
+📄 **[Click here to view my Resume (PDF)](https://github.com/UtkarshKulshreshth07/UtkarshKulshreshth07/blob/main/resume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +24,3 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
 </p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkarshKulshreshth07&show_icons=true&locale=en&theme=dark" alt="UtkarshKulshreshth07" /></p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkarshKulshreshth07&show_icons=true&theme=radical&hide_rank=true" alt="Utkarsh's GitHub Stats" /></p>
