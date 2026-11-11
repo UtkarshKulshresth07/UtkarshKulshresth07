@@ -10,7 +10,7 @@
 - 📫 How to reach me: **2401a00300042@paruluniversity.ac.in**
 
 ### 📄 My Resume:
-[![Resume](https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/UtkarshKulshreshth07/UtkarshKulshreshth07/blob/main/Utkarsh_Kulshreshth_Resume.pdf)
+[![Resume](https://img.shields.io/badge/View_Resume-PDF-red?style=for-the-badge&logo=adobe)](https://github.com/UtkarshKulshreshth07/UtkarshKulshreshth07/blob/main/Utkarsh%20Kulshresth%20PU%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
