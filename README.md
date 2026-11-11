@@ -1,26 +1,20 @@
-<h1 align="center">Hi there, I'm Utkarsh Kulshreshth 👋</h1>
-<h3 align="center">MBA Pharmaceutical Management | Digital Health & Product Enthusiast</h3>
+### 👋 About Me:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UtkarshKulshreshth07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<h3>Hi, I'm Utkarsh Kulshreshth 👋</h3>
 
-- 🔭 I’m currently working on **Nutra Grace (A Healthcare PWA)**
-- 🌱 I’m currently learning **Product Management & Digital Health**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/UtkarshKulshreshth07)
-- 💬 Ask me about **Pharmaceutical Management, Tech in Pharma & PWA Development**
-- 📫 How to reach me: **2401a00300042@paruluniversity.ac.in**
+I am Utkarsh Kulshreshth, an MBA candidate specializing in <b>Pharmaceutical Management</b> at Parul University, with a strong B.Pharm foundation. My expertise spans pharmaceutical sales, market analysis, and product management. I have hands-on industry experience through internships at <b>Sun Pharmaceutical Industries Ltd.</b> and <b>Chirayu Pharmaceuticals</b>, where I developed a practical understanding of GMP practices, batch documentation, and sales strategy evaluation. 
 
-### 📄 My Resume:
-📄 **[Click here to view my Resume (PDF)](https://github.com/UtkarshKulshresth07/UtkarshKulshresth07/blob/main/resume.pdf)**
+Passionate about leveraging technology to solve healthcare challenges, I recently developed <b>Nutra Grace</b>, a Progressive Web App (PWA) designed to discover HPMC liquid-filled capsules. I enjoy bridging the gap between pharma domain knowledge and digital product development to create meaningful, data-driven solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/utkarsh-kulshreshth-0ab3a1392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a>
-</p>
+🔗 <b>Socials & Resume:</b>
+- 📄 **[Click here to view my Resume (PDF)](https://github.com/UtkarshKulshresth07/UtkarshKulshresth07/blob/main/resume.pdf)**
+- 💼 **[Connect with me on LinkedIn](https://linkedin.com/in/utkarsh-kulshreshth-0ab3a1392)**
+- 📧 **Email:** utkarsharyan09@gmail.com
+
+<br>
+
+💻 <b>Tech Stack & Projects:</b>
+- 🚀 **Live Project:** [Nutra Grace (PWA)](https://nutragrace.netlify.app/)
+- 🛠️ **Languages & Tools:** HTML5, CSS3, Vanilla JavaScript, Netlify, PWA (Service Workers)
