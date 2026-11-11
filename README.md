@@ -10,7 +10,7 @@ Passionate about leveraging technology to solve healthcare challenges, I recentl
 
 🔗 <b>Socials & Resume:</b>
 - 📄 **[Click here to view my Resume (PDF)](https://github.com/UtkarshKulshresth07/UtkarshKulshresth07/blob/main/resume.pdf)**
-- 💼 **[Connect with me on LinkedIn](https://linkedin.com/in/utkarsh-kulshreshth-0ab3a1392)**
+- 💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/utkarsh-kulshresth-0ab3a1392/)**
 - 📧 **Email:** utkarsharyan09@gmail.com
 
 <br>
