@@ -28,4 +28,5 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkarshKulshreshth07&show_icons=true&locale=en&theme=dark" alt="UtkarshKulshreshth07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshKulshreshth07&theme=dark" alt="UtkarshKulshreshth07" /></p>
+<h3 align="left">📊 GitHub Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=UtkarshKulshreshth07&show_icons=true&theme=radical&hide_rank=true" alt="Utkarsh's GitHub Stats" /></p>
