@@ -7,9 +7,9 @@ I am Utkarsh Kulshreshth, an MBA candidate specializing in <b>Pharmaceutical Man
 Passionate about leveraging technology to solve healthcare challenges, I enjoy bridging the gap between pharma domain knowledge and digital product development. Recently, I have built two digital solutions:
 
 🚀 My Projects:*
-- *Nutra Grace (PWA):* A Progressive Web App for discovering HPMC health supplements. It features offline support and is fully installable on mobile devices. ([Live App](https://nutragrace.netlify.app/) | [Source Code](https://github.com/UtkarshKulshreshth07/-Nutra-Grace))
+- *Nutra Grace (PWA):* A Progressive Web App for discovering HPMC health supplements. It features offline support and is fully installable on mobile devices. ([Live App](https://nutragrace.netlify.app/) 
   
-- *PharmaPulse (Dashboard):* A unified business dashboard for Pharma Managers featuring a Strategy Simulator, Live Sales Analytics (Charts), Profit Margin Calculator, and MR Doctor Visit Tracker. ([Live App](https://pharma-pulse-07.netlify.app/) | [Source Code](https://github.com/UtkarshKulshreshth07/PharmaPulse))
+- *PharmaPulse (Dashboard):* A unified business dashboard for Pharma Managers featuring a Strategy Simulator, Live Sales Analytics (Charts), Profit Margin Calculator, and MR Doctor Visit Tracker. ([Live App](https://pharma-pulse-07.netlify.app/) 
 
 <br>
 
