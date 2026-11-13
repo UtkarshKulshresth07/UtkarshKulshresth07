@@ -21,5 +21,4 @@ Passionate about leveraging technology to solve healthcare challenges, I enjoy b
 <br>
 
 💻 <b>Tech Stack & Projects:</b>
-- 🚀 **Live Project:** [Nutra Grace (PWA)](https://nutragrace.netlify.app/)
 - 🛠️ **Languages & Tools:** HTML5, CSS3, Vanilla JavaScript, Netlify, PWA (Service Workers)
