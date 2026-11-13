@@ -1,8 +1,8 @@
-### 👋 About Me:
+# Hi, I'm Utkarsh Kulshreshth 👋
 
-<h3>Hi, I'm Utkarsh Kulshreshth 👋</h3>
+### MBA Pharmaceutical Management | B.Pharm | Building Digital Health Solutions
 
-I am Utkarsh Kulshreshth, an MBA candidate specializing in <b>Pharmaceutical Management</b> at Parul University, with a strong B.Pharm foundation. My expertise spans pharmaceutical sales, market analysis, and product management. I have hands-on industry experience through internships at <b>Sun Pharmaceutical Industries Ltd.</b> and <b>Chirayu Pharmaceuticals</b>, where I developed a practical understanding of GMP practices, batch documentation, and sales strategy evaluation. 
+I am an MBA candidate specializing in *Pharmaceutical Management* at Parul University, with a strong B.Pharm foundation. Currently working as a Business Development Executive at *Nutra Grace*, I have hands-on industry experience through internships at Sun Pharmaceutical Industries Ltd. and Chirayu Pharmaceuticals.
 
 Passionate about leveraging technology to solve healthcare challenges, I enjoy bridging the gap between pharma domain knowledge and digital product development. Recently, I have built two digital solutions:
 
