@@ -4,7 +4,12 @@
 
 I am Utkarsh Kulshreshth, an MBA candidate specializing in <b>Pharmaceutical Management</b> at Parul University, with a strong B.Pharm foundation. My expertise spans pharmaceutical sales, market analysis, and product management. I have hands-on industry experience through internships at <b>Sun Pharmaceutical Industries Ltd.</b> and <b>Chirayu Pharmaceuticals</b>, where I developed a practical understanding of GMP practices, batch documentation, and sales strategy evaluation. 
 
-Passionate about leveraging technology to solve healthcare challenges, I recently developed <b>Nutra Grace</b>, a Progressive Web App (PWA) designed to discover HPMC liquid-filled capsules. I enjoy bridging the gap between pharma domain knowledge and digital product development to create meaningful, data-driven solutions.
+Passionate about leveraging technology to solve healthcare challenges, I enjoy bridging the gap between pharma domain knowledge and digital product development. Recently, I have built two digital solutions:
+
+🚀 My Projects:*
+- *Nutra Grace (PWA):* A Progressive Web App for discovering HPMC health supplements. It features offline support and is fully installable on mobile devices. ([Live App](https://nutragrace.netlify.app/) | [Source Code](https://github.com/UtkarshKulshreshth07/-Nutra-Grace))
+  
+- *PharmaPulse (Dashboard):* A unified business dashboard for Pharma Managers featuring a Strategy Simulator, Live Sales Analytics (Charts), Profit Margin Calculator, and MR Doctor Visit Tracker. ([Live App](https://pharma-pulse-07.netlify.app/) | [Source Code](https://github.com/UtkarshKulshreshth07/PharmaPulse))
 
 <br>
 
